@@ -1,1 +1,2 @@
-FROM kubeguide/guestbook-php-frontend
+FROM kubeguide/guestbook-php-frontendRUN
+RUN mkdir -p /usr/test
